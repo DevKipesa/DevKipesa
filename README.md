@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevKipesa
-- 🌱 I’m currently learning python.
+- 🌱 I’m a react.js Frontend developer
 - 💞️ I’m looking to collaborate on developing projects
 - 📫 How to reach me < kymdommie@gmail.com >
 
