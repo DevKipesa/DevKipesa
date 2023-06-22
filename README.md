@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @DevKipesa
-- 🌱 I’m a react.js Frontend developer
-- 💞️ I’m looking to collaborate on developing projects
-- 📫 How to reach me < kymdommie@gmail.com >
+DOMINIC KIMANI CHEGE
+Software Engineer
+📍 Nairobi, Kenya | 📞 +254797543225 | 📧 kymdommie@gmail.com | 💼 LinkedIn | 🌐 GitHub | 📄 Resume
 
-<!---
-DevKipesa/DevKipesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Education
+Masinde Muliro University of Science and Technology
+BSc Information Technology
+September 2018 - December 2022
+
+💼 Experience
+Software Engineer
+Suvence, Nairobi, Kenya
+Now
+
+Developed E-Parliament system
+Design and implement user interfaces for web applications using React.
+Collaborate with backend developers to integrate frontend interfaces with server-side functionality.
+
+🛠️ Skills
+Languages: HTML, CSS, Python, JavaScript (ES6), SQL, TypeScript
+Frameworks: REACT,NODE,DJANGO
+Tools and Others: Git, GitHub, GitLab, Docker, GraphQL, Netlify, MySQL, Rest APIs, Plotly, SQLite PostgreSQL Databases, Postman
+
+🌟 Highlights
+Proficient in a wide range of programming languages, frameworks, and tools.
+Hands-on experience in designing and implementing user interfaces and web applications.
+Strong collaboration skills, with a history of working with cross-functional teams.
+Passion for continuous learning and staying up-to-date with the latest industry trends.
