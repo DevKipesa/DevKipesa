@@ -17,9 +17,9 @@ Design and implement user interfaces for web applications using React.
 Collaborate with backend developers to integrate frontend interfaces with server-side functionality.
 
 🛠️ Skills
-Languages: HTML, CSS, Python, JavaScript (ES6), SQL, TypeScript
-Frameworks: REACT,NODE,DJANGO
-Tools and Others: Git, GitHub, GitLab, Docker, GraphQL, Netlify, MySQL, Rest APIs, Plotly, SQLite PostgreSQL Databases, Postman
+Languages: HTML, CSS, Python, JavaScript (ES6), SQL, TypeScript,Tailwind.
+Frameworks: REACT,NODE,DJANGO.
+Tools and Others: Git, GitHub, MySQL, Rest APIs, SQLite PostgreSQL Databases.
 
 🌟 Highlights
 Proficient in a wide range of programming languages, frameworks, and tools.
