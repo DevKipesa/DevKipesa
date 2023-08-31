@@ -20,7 +20,8 @@ Collaborate with backend developers to integrate frontend interfaces with server
 Languages: HTML, CSS, Python, JavaScript (ES6), SQL, TypeScript,Tailwind.
 Frameworks: REACT,NODE,DJANGO.
 Tools and Others: Git, GitHub, MySQL, Rest APIs, SQLite PostgreSQL Databases.
-
+Graphic Design
+Figma
 🌟 Highlights
 Proficient in a wide range of programming languages, frameworks, and tools.
 Hands-on experience in designing and implementing user interfaces and web applications.
