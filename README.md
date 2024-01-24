@@ -8,10 +8,10 @@ BSc Information Technology
 September 2018 - December 2022
 
 💼 Experience
-Software Engineer
-Suvence, Nairobi, Kenya.
-Software Engineer
-PCEE, Nairobi, Kenya.
+1. Software Engineer
+   Suvence, Nairobi, Kenya.
+2. Software Engineer
+   PCEE, Nairobi, Kenya.
 
 Developed E-Parliament system
 Design and implement user interfaces for web applications using React.
